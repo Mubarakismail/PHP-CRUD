@@ -1,0 +1,40 @@
+[
+    {
+        "id": 4,
+        "name": "Ahmed Mubarak",
+        "username": "AhmedMubarak",
+        "email": "ahmed4@gmail.com",
+        "phone": "201114234119",
+        "extension": "jpg"
+    },
+    {
+        "name": "Bell Cunningham",
+        "username": "jyrodoze",
+        "email": "somo@mailinator.com",
+        "phone": "+1 (448) 949-8612",
+        "id": 105388,
+        "extension": "jpg"
+    },
+    {
+        "name": "Rowan Garza",
+        "username": "mifire",
+        "email": "vuburubi@mailinator.com",
+        "phone": "+1 (613) 944-5016",
+        "id": 130298,
+        "extension": "png"
+    },
+    {
+        "name": "Morgan William",
+        "username": "vyxofe",
+        "email": "kebawaz@mailinator.com",
+        "phone": "+1 (126) 693-2569",
+        "id": 158025
+    },
+    {
+        "name": "Nehru Fuller",
+        "username": "sodujat",
+        "email": "kujel@mailinator.com",
+        "phone": "+1 (173) 375-6794",
+        "id": 141294
+    }
+]
